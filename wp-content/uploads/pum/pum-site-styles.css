@@ -1,6 +1,6 @@
 /**
  * Do not touch this file! This file created by the Popup Maker plugin using PHP
- * Last modified time: Oct 12 2022, 02:20:20
+ * Last modified time: Oct 12 2022, 03:01:12
  */
 
 
@@ -15,8 +15,8 @@
 .pum-theme-1014, .pum-theme-lightbox-2 { background-color: rgba( 0, 0, 0, 0.60 ) } 
 .pum-theme-1014 .pum-container, .pum-theme-lightbox-2 .pum-container { padding: 18px; border-radius: 5px; border: 1px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
 .pum-theme-1014 .pum-title, .pum-theme-lightbox-2 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Roboto; font-weight: 400; font-size: 32px; line-height: 36px } 
-.pum-theme-1014 .pum-content, .pum-theme-lightbox-2 .pum-content { color: #000000; font-family: inherit; font-weight: 100 } 
-.pum-theme-1014 .pum-content + .pum-close, .pum-theme-lightbox-2 .pum-content + .pum-close { position: absolute; height: 26px; width: 26px; left: auto; right: -13px; bottom: auto; top: -13px; padding: 0px; color: #ffffff; font-family: Arial; font-weight: 100; font-size: 24px; line-height: 24px; border: 2px solid #ffffff; border-radius: 26px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
+.pum-theme-1014 .pum-content, .pum-theme-lightbox-2 .pum-content { color: #000000; font-family: Roboto; font-weight: 400 } 
+.pum-theme-1014 .pum-content + .pum-close, .pum-theme-lightbox-2 .pum-content + .pum-close { position: absolute; height: 26px; width: 26px; left: auto; right: -13px; bottom: auto; top: -13px; padding: 0px; color: #ffffff; font-family: Roboto; font-weight: 400; font-size: 24px; line-height: 24px; border: 2px solid #ffffff; border-radius: 26px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
 
 /* Popup Theme 1013: Light Box */
 .pum-theme-1013, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } 
